@@ -24,24 +24,24 @@ The notebook walks through four guiding questions about trading volume, volatili
 
 **Volume vs. volatility by company**
 
-![Volume vs volatility scatter](images/volume_vs_volatility_scatter.png)
+![Volume vs volatility scatter](volume_vs_volatility_scatter.png)
 
 **Volume traded by top 5 companies**
 
-![Top 5 companies by volume](images/volume_top5_pie.png)
+![Top 5 companies by volume](volume_top5_pie.png)
 
 **Top 5 companies by volatility**
 
-![Top 5 companies by volatility](images/volatility_top5_bar.png)
+![Top 5 companies by volatility](volatility_top5_bar.png)
 
 **Volume and volatility by year**
 
-<img src="images/volume_per_year.png" width="49%"> <img src="images/volatility_per_year.png" width="49%">
+<img src="images/volume_per_year.png" width="49%"> <img src="volatility_per_year.png" width="49%">
 
 **Monthly trading volume by year**
 
-<img src="images/volume_per_month_2014.png" width="49%"> <img src="images/volume_per_month_2015.png" width="49%">
-<img src="images/volume_per_month_2016.png" width="49%"> <img src="images/volume_per_month_2017.png" width="49%">
+<img src="images/volume_per_month_2014.png" width="49%"> <img src="volume_per_month_2015.png" width="49%">
+<img src="images/volume_per_month_2016.png" width="49%"> <img src="volume_per_month_2017.png" width="49%">
 
 ## Data
 
