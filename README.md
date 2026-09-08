@@ -36,12 +36,12 @@ The notebook walks through four guiding questions about trading volume, volatili
 
 **Volume and volatility by year**
 
-<img src="images/volume_per_year.png" width="49%"> <img src="volatility_per_year.png" width="49%">
+<img src="volume_per_year.png" width="49%"> <img src="volatility_per_year.png" width="49%">
 
 **Monthly trading volume by year**
 
-<img src="images/volume_per_month_2014.png" width="49%"> <img src="volume_per_month_2015.png" width="49%">
-<img src="images/volume_per_month_2016.png" width="49%"> <img src="volume_per_month_2017.png" width="49%">
+<img src="volume_per_month_2014.png" width="49%"> <img src="volume_per_month_2015.png" width="49%">
+<img src="volume_per_month_2016.png" width="49%"> <img src="volume_per_month_2017.png" width="49%">
 
 ## Data
 
